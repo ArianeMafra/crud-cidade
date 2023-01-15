@@ -1,3 +1,5 @@
+package br.com.ada.crud;
+
 import br.com.ada.crud.controller.impl.CidadeArmazenamentoVolatilController;
 import br.com.ada.crud.view.CidadeView;
 
